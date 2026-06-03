@@ -82,7 +82,7 @@ aiml-week1-assignment/
 │
 ├── src/
 │   └── helper_scripts.py
-│
+│--screenshots
 |
 ├── README.md
 └── requirements.txt
