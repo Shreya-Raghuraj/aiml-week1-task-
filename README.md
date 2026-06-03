@@ -1,4 +1,4 @@
-[StudentsPerformance.csv](https://github.com/user-attachments/files/28537709/StudentsPerformance.csv)# AIML Internship - Week 1 Assignment
+# AIML Internship - Week 1 Assignment
 
 ## Student Performance Dataset Analysis
 
@@ -9,6 +9,7 @@ This project was completed as part of the AIML Internship Week 1 assignment. The
 ---
 
 ## Dataset Used
+
 Dataset Source:  
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
