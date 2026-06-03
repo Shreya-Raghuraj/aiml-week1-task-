@@ -1,4 +1,4 @@
-# AIML Internship - Week 1 Assignment
+[StudentsPerformance.csv](https://github.com/user-attachments/files/28537709/StudentsPerformance.csv)# AIML Internship - Week 1 Assignment
 
 ## Student Performance Dataset Analysis
 
@@ -9,6 +9,8 @@ This project was completed as part of the AIML Internship Week 1 assignment. The
 ---
 
 ## Dataset Used
+Dataset Source:  
+https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
 Dataset Name: Students Performance Dataset
 
@@ -80,7 +82,7 @@ aiml-week1-assignment/
 ├── src/
 │   └── helper_scripts.py
 │
-├── screenshots/
+|
 ├── README.md
 └── requirements.txt
 ```
@@ -93,12 +95,6 @@ aiml-week1-assignment/
 2. Upload the dataset file if required.
 3. Run all notebook cells sequentially.
 4. Generated outputs and cleaned dataset files will be saved automatically.
-
----
-
-## Screenshots / Preview Images
-
-Screenshots of graphs, outputs, and notebook previews are included in the screenshots folder.
 
 ---
 
